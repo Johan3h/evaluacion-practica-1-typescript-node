@@ -1,0 +1,13 @@
+{
+  "name": "evaluacion-practica-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "ts-ej2": "ts-node ejercicio2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
